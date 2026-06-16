@@ -1,5 +1,7 @@
 # Delhi NCR Air Quality Index (AQI) Prediction
 
+🚀 **Live Demo:** [delhi-ncr-aqi.streamlit.app](https://delhi-ncr-aqi.streamlit.app)
+
 A machine learning project to predict Air Quality Index in the Delhi NCR 
 region using weather and temporal features. Built as a hands-on learning 
 project covering the full ML pipeline — EDA, preprocessing, model training, 
