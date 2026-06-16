@@ -50,8 +50,6 @@ AQI_PREDICTION/
 
 │   ├── predict.py
 
-│   ├── preprocess.py
-
 │   └── train.py
 
 ├── .gitignore
